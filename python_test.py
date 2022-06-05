@@ -19,4 +19,4 @@ if __name__ == '__main__':
     fim = time.time()
 
    
-    print(f'O tempo gasto para dois processos em Poll foi de aproxidamente  de: {fim - inicio}')
+    print(f'O tempo gasto para dois processos em Poll foi de aproxidamente : {fim - inicio}')
